@@ -221,22 +221,22 @@
         {
             "mimeType" : "image/jpeg",
             "name" : "Natures_Lessons_in_Healing_Trauma",
-            "uri" : "https://files.michaelzfreeman.org/Natures_Lessons_in_Healing_Trauma.jpg"
+            "uri" : "Natures_Lessons_in_Healing_Trauma.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "book-cover-in-an-unspoken-voice-450x674",
-            "uri" : "https://files.michaelzfreeman.org/book-cover-in-an-unspoken-voice-450x674.jpg"
+            "uri" : "book-cover-in-an-unspoken-voice-450x674.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "spacex_dual_falcon_landing",
-            "uri" : "https://files.michaelzfreeman.org/spacex_dual_falcon_landing.jpg"
+            "uri" : "spacex_dual_falcon_landing.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "waking the tiger levine",
-            "uri" : "https://files.michaelzfreeman.org/waking%20the%20tiger%20levine.jpg"
+            "uri" : "waking%20the%20tiger%20levine.jpg"
         }
     ],
     "accessors" : [
